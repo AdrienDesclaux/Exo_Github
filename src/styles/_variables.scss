@@ -1,0 +1,9 @@
+$color: #fff;
+$color-primary: #61dafb;
+$color-bg: #282c34;
+$shadow-color: 240deg 1% 58%;
+$shadow-elevation-medium:
+    0.5px 0.7px 1px hsl(var($shadow-color) / 0.36),
+    1.7px 2.1px 3px -0.8px hsl(var($shadow-color) / 0.36),
+    4.2px 5.4px 7.7px -1.7px hsl(var($shadow-color) / 0.36),
+    10.1px 13px 18.5px -2.5px hsl(var($shadow-color) / 0.36);
